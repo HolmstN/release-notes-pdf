@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  problem_log_number: 9.99
+  problem_log_title: MyString
+  date_commited: 2017-03-16
+  process_path: MyString
+  issue: MyText
+  resolution: MyText
+  test_plan_id: 9.99
+  service_pack: 9.99
+  patch_number: 9.99
+
+two:
+  problem_log_number: 9.99
+  problem_log_title: MyString
+  date_commited: 2017-03-16
+  process_path: MyString
+  issue: MyText
+  resolution: MyText
+  test_plan_id: 9.99
+  service_pack: 9.99
+  patch_number: 9.99
